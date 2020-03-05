@@ -1,0 +1,5 @@
+#!/bin/bash
+echo -e "This is a sample shell script. \t it displays mounted 
+filesystem: \a"
+df -hT
+

@@ -1,0 +1,7 @@
+nfsrdma         20049/udp               # Network file System (NfS) over RDMA
+nfsrdma         20049/tcp               # Network file System (NfS) over RDMA
+nfsrdma         20049/sctp              # Network file System (NfS) over RDMA
+mountd          20048/udp               # NfS mount protocol
+mountd          20048/tcp               # NfS mount protocol
+mediacntrlnfsd  2363/udp                # Media Central NfSD
+mediacntrlnfsd  2363/tcp                # Media Central NfSD
